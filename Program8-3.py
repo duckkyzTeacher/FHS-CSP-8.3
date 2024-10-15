@@ -1,6 +1,7 @@
 ## Problem 1 ##
 #Please write a script that: 
-# - prints a 5x5 grid of * symbols.
+# - prints only the edges of an NxN grid of stars
+# - Ask the user for the size of the square
 
 
 
